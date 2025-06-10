@@ -21,7 +21,7 @@ This is **not just for revision**, but also a **learning-through-doing** space.
 
 | Pattern                     | Description                                               | 
 |----------------------------|-----------------------------------------------------------|
-| Searching Algorithms       | Different Searching algorithms
+| Sorting and Searching Algo | Different Searching algorithms
 | Two Pointers               | Efficient array and string traversal                      |
 | Sliding Window             | Subarrays, substrings, and window-based optimizations     | 
 | Fast & Slow Pointers       | Linked list cycles, palindrome check, mid-finding         | 
